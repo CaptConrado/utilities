@@ -1,0 +1,25 @@
+That the acronym MOOCs rhymes with “nukes” seems apt. Massive open online courses, or MOOCs — led by two profit-making start-ups, Coursera and Udacity, founded by entrepreneurial Stanford professors — are a new disruptive force in education. Leading universities have scrambled to join or offer alternatives like edX, a collaboration of the Massachusetts Institute of Technology, Harvard University and others.
+
+The MOOCs movement has been greeted with equal parts enthusiasm and angst. The MOOC champions predict a technology-fueled revolution in the distribution and democratization of high-quality education. The MOOC skeptics have a variety of qualms, but especially about what is lost in the retreat of face-to-face teaching — a point eloquently made by Andrew Delbanco, a professor of American studies at Columbia University, in an article in the current New Republic, “MOOCs of Hazard.”
+
+Michael A. Cusumano, a professor at the Sloan School of Management at M.I.T., raises a different issue in an essay published this week: the economics of MOOCs and the implications.
+
+His article appears in Communications of the ACM, the monthly magazine of the Association for Computing Machinery, and he had circulated a version of it earlier to his M.I.T. colleagues. After reading it, L. Rafael Rief, M.I.T.’s president, asked Mr. Cusumano to serve on a task force on the “residential university” of the future, including online initiatives.
+
+“My fear is that we’re plunging forward with these massively free online education resources and we’re not thinking much about the economics,” Mr. Cusumano said in an interview.
+
+The MOOC champions, Mr. Cusumano said, are well-intentioned people who “think it’s a social good to distribute education for free.”
+
+But Mr. Cusumano questions that assumption. “Free is actually very elitist,” he said. The long-term future of university education along the MOOC path, he said, could be a “few large, well-off survivors” and a wasteland of casualties.
+
+Mr. Cusumano’s concerns grow out of his study of the software and media industries in the face of price pressure from free, open-source software and digital distribution over the Internet. Two-thirds of the public companies in the software industry disappeared between 1998 and 2006, as companies failed or were acquired. In the media world, Mr. Cusumano contends that newspaper and magazine companies — including The New York Times Company — made a strategic mistake by giving away their publications free on the Web. The online pay walls that publications have since put up, he said, seem to be helping to stabilize things, but only after a precipitous decline.
+
+Give-away pricing in education, Mr. Cusumano warns, may well be a comparable misstep. The damage would occur, he writes in the article, “if increasing numbers of universities and colleges joined the free online education movement and set a new threshold price for the industry — zero — which becomes commonly accepted and difficult to undo.”
+
+In our conversation, I offered the obvious counterargument. Why should education necessarily be immune from this digital, Darwinian wave, when other industries are not? Isn’t this just further evidence of the march of disruptive progress that ultimately benefits society?
+
+Mr. Cusumano has heard this reasoning before, and he is unconvinced. In the article, he explains, “I am mostly concerned about second- and third-tier universities and colleges, and community colleges, many of which play critical roles for education and economic development in their local regions and communities.”
+
+“In education,” Mr. Cusumano adds, “‘free’ in the long run may actually reduce variety and opportunities for learning as well as lessen our stocks of knowledge.”
+
+Later he writes: “Will two-thirds of the education industry disappear? Maybe not, but maybe! It is hard to believe that we will be better off as a society with only a few remaining megawealthy universities.”
