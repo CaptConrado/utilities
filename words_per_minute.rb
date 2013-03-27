@@ -1,13 +1,14 @@
 # The average adult reads prose text at 250 to 300 words per minute. While proofreading materials, people are able to read at 200 wpm on paper, and 180 wpm on a monitor
 
 # file = File.read('elq1js.txt')
+file = File.read('js.txt')
 # file = %q[hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude hello dude]
 
 total_words = file.split.count.to_i
-puts "There are #{total_words} in the article"
+puts "There are #{total_words} words in the article"
 
 avg_wpm_prose = 300
-avg_wpm_proof = 200
+# avg_wpm_proof = 200
 avg_wpm_scren = 180
 your_avg_wpm = 0
 
@@ -48,12 +49,12 @@ end
 
 
 prose_per = compare(your_avg_wpm,avg_wpm_prose)
-proof_per = compare(your_avg_wpm,avg_wpm_proof)
+# proof_per = compare(your_avg_wpm,avg_wpm_proof)
 scren_per = compare(your_avg_wpm,avg_wpm_scren)
 
-perc = [[prose_per,'reading Prose'],[proof_per,'Proof Reading'],[scren_per,'reading of a Monitor']]
+perc = [[prose_per,'reading Prose'],[scren_per,'reading of a Monitor']]
 
-puts "Average wpm speed is Prose:#{avg_wpm_prose} Proof Reading:#{avg_wpm_proof} and Screen:#{avg_wpm_scren}"
+puts "Average wpm speed is Prose:#{avg_wpm_prose} and Screen:#{avg_wpm_scren}"
 puts "You have a current WPM average of #{your_avg_wpm}"
 
 perc.each do |x|
